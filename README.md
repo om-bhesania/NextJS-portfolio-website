@@ -1,6 +1,6 @@
 # Animated Portfolio 
 
-##### [Live Demo](https://animated-portfolio.erfjs.com) on Netlify
+
 
 ## 📷 Screenshot
 <p align="center">
